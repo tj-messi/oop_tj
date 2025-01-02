@@ -1,0 +1,5 @@
+/*2354182 ÐÅ°² Àîâù¾ý*/
+#define _CRT_SECURE_NO_WARNINGS  
+#include <stdio.h>  
+#include <string.h>  
+#define FILE_NAME_SIZE 256  

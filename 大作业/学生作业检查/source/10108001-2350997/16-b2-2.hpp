@@ -1,0 +1,5 @@
+/* 2350997 Õı“ªœ£ º∆∞Œ */
+#include <iostream>
+#include <string>
+using namespace std;
+

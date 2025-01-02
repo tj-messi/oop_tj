@@ -1,0 +1,5 @@
+/* º∆∞Œ 2350997 Õı“ªœ£ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+

@@ -1,0 +1,5 @@
+/*2154399 Í¨ÐÅ ×ÞÑî×Óéª*/
+#include <stdio.h>
+int main()
+{
+	int n;

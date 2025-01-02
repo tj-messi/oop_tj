@@ -1,0 +1,5 @@
+/* 2353806 ’‘“ÓŸ° º∆ø∆ */
+#include<iostream>
+#include<fstream>
+using namespace std;
+

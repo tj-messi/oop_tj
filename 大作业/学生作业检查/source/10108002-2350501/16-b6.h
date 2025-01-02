@@ -1,0 +1,5 @@
+/*º∆ø∆ 2350501 Õı–”*/
+#pragma once
+
+#include <iostream>
+#include<cstring>

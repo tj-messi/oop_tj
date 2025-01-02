@@ -1,0 +1,5 @@
+/* 2351274 Õı“‡Á‚ º∆∞Œ */
+#pragma once
+
+#include <iostream>
+using namespace std;

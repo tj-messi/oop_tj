@@ -1,0 +1,5 @@
+/* 2354352 ажрк©╜ ╪ф©ф */
+#include <iostream>
+using namespace std;
+
+int main()

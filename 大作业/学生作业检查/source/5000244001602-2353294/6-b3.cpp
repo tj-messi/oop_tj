@@ -1,0 +1,5 @@
+/* 2353294 À×¿­ Èí¼þ */
+#include <iostream>
+using namespace std;
+
+int bintodec(char* p)

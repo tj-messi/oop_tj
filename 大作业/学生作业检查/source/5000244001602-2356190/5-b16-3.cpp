@@ -1,0 +1,5 @@
+/* 2356190 –≈∞≤ ÀÔ‘¥ */
+#include <iostream>
+#include <string>
+using namespace std;
+

@@ -1,0 +1,5 @@
+/* 2353252 Áõ±üËÉ ¼Æ¿Æ */
+#include <iostream>
+#include <cstring>
+#include "16-b6.h"
+using namespace std;

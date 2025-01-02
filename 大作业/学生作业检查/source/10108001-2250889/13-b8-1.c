@@ -1,0 +1,5 @@
+/* 大数据 2250889 廖玲艺 */
+#include <stdio.h>
+
+int main()
+{

@@ -1,0 +1,5 @@
+/* 2351274 º∆∞Œ Õı“‡Á‚ */
+#include<iostream>
+#include<fstream>
+#include<ctime>
+#include<string.h>

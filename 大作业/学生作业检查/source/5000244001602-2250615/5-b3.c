@@ -1,0 +1,5 @@
+/* 2250615 ³Âê»Ôó µçÆø */
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int isLeapYear(int year) {

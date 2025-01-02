@@ -1,0 +1,17 @@
+还未开始做的同学：用本文件替代原始的“24251-900104-W0902.综合题 - 附件 - BigHW_3.rar”即可
+
+已经开始做的同学：替换下面这6个文件
+	common目录：
+		class_aat.cpp ：增加了get_double()函数的实现
+	include目录：
+		class_aat.h    ：多一个 DOUBLE_DELTA 的定义，用于double型比较相等时的误差控制
+                                 多get_double()的函数声明
+		lib_aat_tools.h：多一个 DOUBLE_DELTA 的定义，用于double型比较相等时的误差控制
+				 加了一些注释
+	lib目录：
+		lib_common_tools.lib：更新了一个bug
+		lib_common_tools.pdb：对应更新
+	test_args_analyse_tools目录：
+		test_args_analyse_tools.cpp ：测试用例的说明即预期结果更完整
+					      分析完参数后，打印当前可取值
+

@@ -1,0 +1,5 @@
+/* ÐÅ19 2351571 Îä¾´Ðù */
+#include <iostream>
+using namespace std;
+
+int main()

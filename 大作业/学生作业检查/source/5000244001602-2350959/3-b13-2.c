@@ -1,0 +1,5 @@
+/*º∆ø∆ 2350959 π˘ È”Ó*/
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main() {

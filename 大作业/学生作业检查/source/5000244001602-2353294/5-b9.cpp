@@ -1,0 +1,5 @@
+/* Èí¼þ À×¿­ 2353294 */
+
+#include <iostream>
+#include <limits.h>
+#define N 9

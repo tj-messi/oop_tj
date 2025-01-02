@@ -1,0 +1,5 @@
+/*2351276 ≈ÌÏ„ –≈∞≤*/
+#include <iostream>
+#include <fstream>
+#include<cstring>
+using namespace std;

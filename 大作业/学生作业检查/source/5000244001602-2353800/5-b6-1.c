@@ -1,0 +1,5 @@
+/* ≤‚ªÊ 2353800 …€Ó⁄ */
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int ta, tb, tc;

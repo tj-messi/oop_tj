@@ -1,0 +1,5 @@
+/* 2351274 Õı“‡Á‚ º∆∞Œ */
+#include <iostream>
+#include <iomanip>
+#include <cstdio>
+#include <cstring>

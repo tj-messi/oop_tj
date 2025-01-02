@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDF1BB9-7135-4A32-AB88-0638DB7FB863}|common\\common.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CDF1BB9-7135-4A32-AB88-0638DB7FB863}|common\\common.vcxproj|solutionrelative:common\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9699BC08-56C8-4BAB-B148-8D2ED158D100}|90-01-b1\\90-01-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b1\\90-01-b1-hanoi_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9699BC08-56C8-4BAB-B148-8D2ED158D100}|90-01-b1\\90-01-b1.vcxproj|solutionrelative:90-01-b1\\90-01-b1-hanoi_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9699BC08-56C8-4BAB-B148-8D2ED158D100}|90-01-b1\\90-01-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b1\\90-01-b1-hanoi_multiple_solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9699BC08-56C8-4BAB-B148-8D2ED158D100}|90-01-b1\\90-01-b1.vcxproj|solutionrelative:90-01-b1\\90-01-b1-hanoi_multiple_solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9699BC08-56C8-4BAB-B148-8D2ED158D100}|90-01-b1\\90-01-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\base_work_fun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9699BC08-56C8-4BAB-B148-8D2ED158D100}|90-01-b1\\90-01-b1.vcxproj|solutionrelative:common\\base_work_fun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194EBE41-652F-465C-B2E8-97C9F774247B}|90-01-b2\\90-01-b2.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b2\\90-01-b2-magic_ball_graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194EBE41-652F-465C-B2E8-97C9F774247B}|90-01-b2\\90-01-b2.vcxproj|solutionrelative:90-01-b2\\90-01-b2-magic_ball_graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5CE60-C691-48AF-B789-4B4D105EDFA5}|test-cpp\\test-cpp.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u9884\u5907\u5DE5\u4F5C - \u4ECE\u65E7\u7248\u63A7\u5236\u53F0\u79FB\u690D\u5230\u65B0\u7248\u63A7\u5236\u53F0\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u9644\u4EF6 - test-cct-\u8FB9\u6846.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1-base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|solutionrelative:90-02-b1\\90-02-b1-base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|solutionrelative:90-02-b1\\90-02-b1-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194EBE41-652F-465C-B2E8-97C9F774247B}|90-01-b2\\90-01-b2.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b2\\90-01-b2-magic_ball_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{194EBE41-652F-465C-B2E8-97C9F774247B}|90-01-b2\\90-01-b2.vcxproj|solutionrelative:90-01-b2\\90-01-b2-magic_ball_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\90-01-b2 \u0026\u0026 90-02-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|solutionrelative:common\\90-01-b2 \u0026\u0026 90-02-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CD706-1B69-4F02-8B1B-7011E17DC9E0}|include\\include.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\cmd_console_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{618CD706-1B69-4F02-8B1B-7011E17DC9E0}|include\\include.vcxproj|solutionrelative:include\\cmd_console_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|solutionrelative:90-02-b1\\90-02-b1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\base_work_fun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|solutionrelative:include\\base_work_fun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\90-01-b2 \u0026\u0026 90-02-b1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E998EE-60C7-4641-8FE4-4DF89D223824}|90-02-b1\\90-02-b1.vcxproj|solutionrelative:include\\90-01-b2 \u0026\u0026 90-02-b1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9253607-3B29-476E-A94E-968E303031BD}|test-cct\\test-cct.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\test-cct\\test-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9253607-3B29-476E-A94E-968E303031BD}|test-cct\\test-cct.vcxproj|solutionrelative:test-cct\\test-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "90-01-b2-magic_ball_graph.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b2\\90-01-b2-magic_ball_graph.cpp",
+              "RelativeDocumentMoniker": "90-01-b2\\90-01-b2-magic_ball_graph.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b2\\90-01-b2-magic_ball_graph.cpp",
+              "RelativeToolTip": "90-01-b2\\90-01-b2-magic_ball_graph.cpp",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAAAEQBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T16:08:48.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "90-01-b2-magic_ball_main.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b2\\90-01-b2-magic_ball_main.cpp",
+              "RelativeDocumentMoniker": "90-01-b2\\90-01-b2-magic_ball_main.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b2\\90-01-b2-magic_ball_main.cpp",
+              "RelativeToolTip": "90-01-b2\\90-01-b2-magic_ball_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T16:08:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "base_work_fun.h",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\base_work_fun.h",
+              "RelativeDocumentMoniker": "include\\base_work_fun.h",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\base_work_fun.h",
+              "RelativeToolTip": "include\\base_work_fun.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T03:27:26.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "90-01-b2 \u0026\u0026 90-02-b1.h",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\90-01-b2 \u0026\u0026 90-02-b1.h",
+              "RelativeDocumentMoniker": "include\\90-01-b2 \u0026\u0026 90-02-b1.h",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\90-01-b2 \u0026\u0026 90-02-b1.h",
+              "RelativeToolTip": "include\\90-01-b2 \u0026\u0026 90-02-b1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T03:22:31.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "90-01-b1-hanoi_multiple_solutions.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b1\\90-01-b1-hanoi_multiple_solutions.cpp",
+              "RelativeDocumentMoniker": "90-01-b1\\90-01-b1-hanoi_multiple_solutions.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b1\\90-01-b1-hanoi_multiple_solutions.cpp",
+              "RelativeToolTip": "90-01-b1\\90-01-b1-hanoi_multiple_solutions.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAApwLcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T03:22:37.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "90-01-b1-hanoi_main.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b1\\90-01-b1-hanoi_main.cpp",
+              "RelativeDocumentMoniker": "90-01-b1\\90-01-b1-hanoi_main.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-01-b1\\90-01-b1-hanoi_main.cpp",
+              "RelativeToolTip": "90-01-b1\\90-01-b1-hanoi_main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAADwvxcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T03:22:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "24251-900102-W0401.\u7EFC\u5408\u9898 - \u9644\u4EF6 - test-cct-\u8FB9\u6846.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u9884\u5907\u5DE5\u4F5C - \u4ECE\u65E7\u7248\u63A7\u5236\u53F0\u79FB\u690D\u5230\u65B0\u7248\u63A7\u5236\u53F0\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u9644\u4EF6 - test-cct-\u8FB9\u6846.cpp",
+              "RelativeDocumentMoniker": "..\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u9884\u5907\u5DE5\u4F5C - \u4ECE\u65E7\u7248\u63A7\u5236\u53F0\u79FB\u690D\u5230\u65B0\u7248\u63A7\u5236\u53F0\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u9644\u4EF6 - test-cct-\u8FB9\u6846.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u9884\u5907\u5DE5\u4F5C - \u4ECE\u65E7\u7248\u63A7\u5236\u53F0\u79FB\u690D\u5230\u65B0\u7248\u63A7\u5236\u53F0\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u9644\u4EF6 - test-cct-\u8FB9\u6846.cpp",
+              "RelativeToolTip": "..\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u9884\u5907\u5DE5\u4F5C - \u4ECE\u65E7\u7248\u63A7\u5236\u53F0\u79FB\u690D\u5230\u65B0\u7248\u63A7\u5236\u53F0\\24251-900102-W0401.\u7EFC\u5408\u9898 - \u9644\u4EF6 - test-cct-\u8FB9\u6846.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T02:41:50.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "90-02-b1-base.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1-base.cpp",
+              "RelativeDocumentMoniker": "90-02-b1\\90-02-b1-base.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1-base.cpp",
+              "RelativeToolTip": "90-02-b1\\90-02-b1-base.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T02:52:38.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base_work_fun.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\base_work_fun.cpp",
+              "RelativeDocumentMoniker": "common\\base_work_fun.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\base_work_fun.cpp",
+              "RelativeToolTip": "common\\base_work_fun.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T02:46:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "90-02-b1-main.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1-main.cpp",
+              "RelativeDocumentMoniker": "90-02-b1\\90-02-b1-main.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1-main.cpp",
+              "RelativeToolTip": "90-02-b1\\90-02-b1-main.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T02:45:09.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cmd_console_tools.h",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\cmd_console_tools.h",
+              "RelativeDocumentMoniker": "include\\cmd_console_tools.h",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\include\\cmd_console_tools.h",
+              "RelativeToolTip": "include\\cmd_console_tools.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T02:42:59.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "test-cct.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\test-cct\\test-cct.cpp",
+              "RelativeDocumentMoniker": "test-cct\\test-cct.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\test-cct\\test-cct.cpp",
+              "RelativeToolTip": "test-cct\\test-cct.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T02:41:06.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "90-02-b1.h",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1.h",
+              "RelativeDocumentMoniker": "90-02-b1\\90-02-b1.h",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\90-02-b1\\90-02-b1.h",
+              "RelativeToolTip": "90-02-b1\\90-02-b1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T02:28:08.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "90-01-b2 \u0026\u0026 90-02-b1.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\90-01-b2 \u0026\u0026 90-02-b1.cpp",
+              "RelativeDocumentMoniker": "common\\90-01-b2 \u0026\u0026 90-02-b1.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\90-01-b2 \u0026\u0026 90-02-b1.cpp",
+              "RelativeToolTip": "common\\90-01-b2 \u0026\u0026 90-02-b1.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T02:08:15.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "common\\cmd_console_tools.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\BigHW\\common\\cmd_console_tools.cpp",
+              "RelativeToolTip": "common\\cmd_console_tools.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

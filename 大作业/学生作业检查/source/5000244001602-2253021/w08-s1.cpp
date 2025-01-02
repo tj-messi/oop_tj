@@ -1,0 +1,5 @@
+/* 2253021 Ô¬¿¡ËÉ Êý½ð */
+#include <iostream>
+using namespace std;
+
+void outputzheng(int k)

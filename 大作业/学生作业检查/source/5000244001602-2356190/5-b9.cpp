@@ -1,0 +1,5 @@
+/* 2356190 –≈∞≤ ÀÔ‘¥ */
+#include <iostream>
+using namespace std;
+
+bool isValid(int grid[9][9])

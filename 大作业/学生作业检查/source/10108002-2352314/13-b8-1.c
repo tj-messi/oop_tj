@@ -1,0 +1,5 @@
+/* –≈∞≤ 2352314 ¡÷Í≈ËØ */
+#include <stdio.h>
+
+int main()
+{

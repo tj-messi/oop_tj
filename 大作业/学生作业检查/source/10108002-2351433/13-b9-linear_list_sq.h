@@ -1,0 +1,5 @@
+/* 2351433 º∆ø∆01 ¡ı“› */
+//#define ELEMTYPE_IS_DOUBLE
+//#define ELEMTYPE_IS_CHAR_ARRAY
+//#define ELEMTYPE_IS_CHAR_P
+//#define ELEMTYPE_IS_STRUCT_STUDENT

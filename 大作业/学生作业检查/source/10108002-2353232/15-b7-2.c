@@ -1,0 +1,5 @@
+/* 2353232 Õı÷¬‘∂ º∆ø∆ */
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+#if defined(_MSC_VER) || defined(__MINGW32__)

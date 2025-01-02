@@ -1,0 +1,5 @@
+/*2350231 º∆ø∆ ∏ﬂ∞ÿ÷€*/
+/*2352990 ª∆Á˘ 2350233 “∂≥Ω 2352027 ’≈∫Í±Û 2351295 ∫˙«≈Ω° 2352035 ≤‹€øΩ‹ */
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<string.h>

@@ -1,0 +1,5 @@
+/* 2352018 ¥Û ˝æ› ¡ı—Â */
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <cstring>
+using namespace std;

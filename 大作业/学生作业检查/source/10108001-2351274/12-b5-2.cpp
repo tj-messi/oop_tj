@@ -1,0 +1,5 @@
+/* º∆∞Œ 2351274 Õı“‡Á‚ */
+#include <iostream>
+#include <iomanip>
+using namespace std;
+

@@ -1,0 +1,5 @@
+/*º∆ø∆ 2353244 ¡ŒÊ•Ÿ‚ */
+#include <iostream>
+#include <iomanip>
+#include <cstring>
+using namespace std;

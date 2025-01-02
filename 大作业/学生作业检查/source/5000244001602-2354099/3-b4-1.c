@@ -1,0 +1,5 @@
+/* 2354099 Õ®–≈2∞‡ ’≈Ó¸»Ω */
+#define _CRT_SECURE_NO_WARNINGS
+#include<math.h>
+#include <stdio.h>
+

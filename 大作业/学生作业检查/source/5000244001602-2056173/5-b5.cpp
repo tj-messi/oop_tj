@@ -1,0 +1,5 @@
+/*2056173 Èí¼þ ºÎºì²ý*/
+#include <iostream>
+using namespace std;
+void sort(int array[], int n)
+{

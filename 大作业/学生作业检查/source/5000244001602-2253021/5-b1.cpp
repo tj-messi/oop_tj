@@ -1,0 +1,5 @@
+/* 2253021 Ô¬¿¡ËÉ Êý½ð */
+#include <iostream>
+#define n 21
+using namespace std;
+

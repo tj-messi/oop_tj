@@ -1,0 +1,5 @@
+/*2054328 Õı”® º∆ø∆*/
+#include <iostream>
+#include <time.h>
+#include <windows.h>
+using namespace std;

@@ -1,0 +1,5 @@
+/* Èí¼þ 2353294 À×¿­ */
+
+#include <iostream>
+#include <ctime>
+#define N 10

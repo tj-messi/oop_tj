@@ -1,0 +1,2 @@
+2024-12-13 18:34:26 连接数据库(10.80.42.230/0/homework/hwcheck)错误([2002]Can't connect to server on '10.80.42.230' (10053))，程序终止.
+2024-12-13 18:34:26 SQL命令执行错误：call proc_hwapp_get_stulist_from_view_student_cno("2024/2025/1", "10108001", "stu_cno, stu_no", NULL);([2006]Server has gone away)

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83DF1319-C848-481B-BF84-2434CBAB8119}|test-gmw\\test-gmw.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\test-gmw\\test-gmw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83DF1319-C848-481B-BF84-2434CBAB8119}|test-gmw\\test-gmw.vcxproj|solutionrelative:test-gmw\\test-gmw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DF1319-C848-481B-BF84-2434CBAB8119}|test-gmw\\test-gmw.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\common\\cmd_gmw_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83DF1319-C848-481B-BF84-2434CBAB8119}|test-gmw\\test-gmw.vcxproj|solutionrelative:common\\cmd_gmw_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9253607-3B29-476E-A94E-968E303031BD}|test-cct\\test-cct.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\test-cct\\test-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9253607-3B29-476E-A94E-968E303031BD}|test-cct\\test-cct.vcxproj|solutionrelative:test-cct\\test-cct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9253607-3B29-476E-A94E-968E303031BD}|test-cct\\test-cct.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\common\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9253607-3B29-476E-A94E-968E303031BD}|test-cct\\test-cct.vcxproj|solutionrelative:common\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CD706-1B69-4F02-8B1B-7011E17DC9E0}|include\\include.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\include\\lib_tgmw_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{618CD706-1B69-4F02-8B1B-7011E17DC9E0}|include\\include.vcxproj|solutionrelative:include\\lib_tgmw_tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE36B0EE-0298-417D-B1EE-080C37D027D3}|90-02-b2\\90-02-b2.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\90-02-b2\\90-02-b2-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE36B0EE-0298-417D-B1EE-080C37D027D3}|90-02-b2\\90-02-b2.vcxproj|solutionrelative:90-02-b2\\90-02-b2-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test-gmw.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\test-gmw\\test-gmw.cpp",
+              "RelativeDocumentMoniker": "test-gmw\\test-gmw.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\test-gmw\\test-gmw.cpp",
+              "RelativeToolTip": "test-gmw\\test-gmw.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T06:50:14.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test-cct.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\test-cct\\test-cct.cpp",
+              "RelativeDocumentMoniker": "test-cct\\test-cct.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\test-cct\\test-cct.cpp",
+              "RelativeToolTip": "test-cct\\test-cct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T06:50:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lib_tgmw_tools.h",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\include\\lib_tgmw_tools.h",
+              "RelativeDocumentMoniker": "include\\lib_tgmw_tools.h",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\include\\lib_tgmw_tools.h",
+              "RelativeToolTip": "include\\lib_tgmw_tools.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T06:49:53.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cmd_gmw_tools.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\common\\cmd_gmw_tools.cpp",
+              "RelativeDocumentMoniker": "common\\cmd_gmw_tools.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\common\\cmd_gmw_tools.cpp",
+              "RelativeToolTip": "common\\cmd_gmw_tools.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T06:49:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "90-02-b2-main.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\90-02-b2\\90-02-b2-main.cpp",
+              "RelativeDocumentMoniker": "90-02-b2\\90-02-b2-main.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\90-02-b2\\90-02-b2-main.cpp",
+              "RelativeToolTip": "90-02-b2\\90-02-b2-main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:04:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\common\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "common\\cmd_console_tools.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\24251-900103-W0501.\u7EFC\u5408\u9898 - \u7B2C02\u9898 - \u6D88\u9664\u7C7B\u6E38\u620F\u4F2A\u56FE\u5F62\u5DE5\u5177\u51FD\u6570\u96C6\u7684\u5B9E\u73B0\u53CA\u5E94\u7528\\BigHW\\common\\cmd_console_tools.cpp",
+              "RelativeToolTip": "common\\cmd_console_tools.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:04:15.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

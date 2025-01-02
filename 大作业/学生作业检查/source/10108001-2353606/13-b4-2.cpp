@@ -1,0 +1,5 @@
+/*2353606 王瀚威 大数据*/
+#define _CRT_SECURE_NO_WARNINGS
+#include<fstream>
+#include<iostream>
+#include<string.h>

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|solutionrelative:hw_check\\hw_check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|solutionrelative:hw_check\\hw_check_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|solutionrelative:hw_check\\hw_check.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\common\\class_cft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95A32243-A4A4-494F-8605-DB84DC739835}|hw_check\\hw_check.vcxproj|solutionrelative:common\\class_cft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 195,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hw_check.h",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check.h",
+              "RelativeDocumentMoniker": "hw_check\\hw_check.h",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check.h",
+              "RelativeToolTip": "hw_check\\hw_check.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T17:02:55.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "class_cft.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\common\\class_cft.cpp",
+              "RelativeDocumentMoniker": "common\\class_cft.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\common\\class_cft.cpp",
+              "RelativeToolTip": "common\\class_cft.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T16:57:46.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw_check.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check.cpp",
+              "RelativeDocumentMoniker": "hw_check\\hw_check.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check.cpp",
+              "RelativeToolTip": "hw_check\\hw_check.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T16:53:56.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hw_check_main.cpp",
+              "DocumentMoniker": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check_main.cpp",
+              "RelativeDocumentMoniker": "hw_check\\hw_check_main.cpp",
+              "ToolTip": "D:\\oop\\\u5927\u4F5C\u4E1A\\\u5B66\u751F\u4F5C\u4E1A\u68C0\u67E5\\BigHW\\hw_check\\hw_check_main.cpp",
+              "RelativeToolTip": "hw_check\\hw_check_main.cpp",
+              "ViewState": "AgIAAGACAAAAAAAAAAAAAOoBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T16:53:45.448Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+/* 2353294 À×¿­ Èí¼þ */
+#include <iostream>
+#include <iomanip>
+#define N 32
+using namespace std;

@@ -1,0 +1,5 @@
+/* 2351584 ÐÅ°² ºú½ÝÃù */
+#include <stdio.h>
+
+int main()
+{

@@ -1,0 +1,5 @@
+/*1953628 ¼Æ¿Æ ËïÍòÂ¼*/
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#define MAX 1001
+

@@ -1,0 +1,5 @@
+/* 2350997 Õı“ªœ£ º∆∞Œ */
+#include <iostream>
+using namespace std;
+
+template <typename T, int len>

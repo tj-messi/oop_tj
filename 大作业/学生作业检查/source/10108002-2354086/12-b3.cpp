@@ -1,0 +1,5 @@
+/*2354086 º∆ø∆ ”‡Ê≠∫≠*/
+#include <iostream>
+using namespace std;
+int main()
+{

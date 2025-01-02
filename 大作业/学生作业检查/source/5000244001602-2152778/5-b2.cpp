@@ -1,0 +1,5 @@
+/*2152778 Êý½ð ÎºÍ¤ÖÛ*/
+#include <iostream>
+using namespace std;
+
+const int N = 100;

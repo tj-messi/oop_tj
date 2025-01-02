@@ -1,0 +1,5 @@
+/* 2352366 电气 邓国治 */
+#include <iostream>
+using namespace std;
+
+unsigned int zhuanhuan(char* str)

@@ -1,0 +1,5 @@
+/*2351395 ¼Æ°Î »ÆÕ²öÎ*/
+#include<iostream>
+using namespace std;
+int main()
+{

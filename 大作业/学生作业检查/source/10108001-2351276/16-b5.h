@@ -1,0 +1,5 @@
+/* 2351276 ≈ÌÏ„ –≈∞≤ */
+
+#pragma once
+
+#include <iostream>

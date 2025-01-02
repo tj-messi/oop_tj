@@ -1,0 +1,8 @@
+﻿  90-01-b2 && 90-02-b1.cpp
+  base_work_fun.cpp
+  cmd_console_tools.cpp
+D:\oop\大作业\BigHW\common\cmd_console_tools.cpp(230,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  90-02-b1-base.cpp
+  90-02-b1-main.cpp
+  正在生成代码...
+  90-02-b1.vcxproj -> D:\oop\大作业\BigHW\x64\Debug\90-02-b1.exe

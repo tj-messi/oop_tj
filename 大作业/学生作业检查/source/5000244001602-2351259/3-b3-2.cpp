@@ -1,0 +1,5 @@
+/*2351259 ´óÊý¾Ý Î£î£½¡*/
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main() {

@@ -1,0 +1,5 @@
+/* 2350229 ¹ùÐÀâù ÐÅ°² */
+#define _CRT_SECURE_NO_WARNINGS
+#if(__linux__)
+#include <unistd.h>		//exitº¯Êý
+#else

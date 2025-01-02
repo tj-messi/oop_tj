@@ -1,0 +1,5 @@
+/*2351259 ´óÊý¾Ý Î£î£½¡*/
+#include <iostream>
+#include <time.h>
+using namespace std;
+int main()

@@ -1,0 +1,5 @@
+/* 2054328 Õı”® º∆ø∆*/
+#include <iostream>
+#include <iomanip>
+#include <Windows.h>
+using namespace std;

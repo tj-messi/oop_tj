@@ -1,0 +1,5 @@
+/* 2351276 ≈ÌÏ„ –≈∞≤ */
+#include "16-b7.h"
+
+ostream& operator<<(ostream& out, const week& d)
+{

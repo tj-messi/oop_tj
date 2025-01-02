@@ -1,0 +1,5 @@
+//2353252 º∆ø∆ ¡ı±¸À…
+#include <iostream>
+#include <fstream>
+#if (_MSC_VER||__GNUC__==9)
+#include <conio.h>

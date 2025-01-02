@@ -1,0 +1,5 @@
+/* –≈∞≤ 2352314 ¡÷Í≈ËØ */
+#include <iostream>
+#include <fstream>
+#include <cstdlib>
+using namespace std;
